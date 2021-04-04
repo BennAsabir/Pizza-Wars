@@ -1,11 +1,11 @@
 :root {
   --primary: #e4b363;
-  --secondary: #ef6461;
-  --tertiary: #fffd8c;
+  --secondary: #c38800;
+  --tertiary: #fff;
   --quaternary: #e0dfd5;
   --quinary: #fcf83b;
   --light: #e8e9eb;
-  --dark: #a86a2c;
+  --dark: #7f5020;
   --border-radius: 1.5rem;
   --spacing-one: calc(1rem * 0.25);
   --spacing-two: calc(1rem * 0.5);
@@ -44,7 +44,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Rubik', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 500;
   margin: 5px 0;
   color: var(--tertiary);
@@ -107,7 +107,7 @@ nav a:hover {
 }
 
 .logo {
-  font-family: 'Spicy Rice', cursive;
+  font-family: 'Train One';
   font-size: 3rem;
 }
 
