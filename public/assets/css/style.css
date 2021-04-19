@@ -196,6 +196,11 @@ select {
   box-shadow: 0 0 10px #fcf83b;
   outline: none;
 }
+.pizzalist {
+  font-size: small;
+
+}
+
 
 [type='radio']:checked,
 [type='radio']:not(:checked) {
