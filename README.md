@@ -11,7 +11,11 @@ An application that lets users connect with each other based on their love of pi
 
 ## General Info
 In Pizza Wars, users can share and discuss their dream pizza-topping combinations. Pizza is ubiquitous in everyday life all over the world, and no application has ever been created with the sole purpose of facilitating discussions about it.
-This application uses Express.js for routing, a MongoDB database, and the Mongoose ODM.<br>
+This application uses Express.js for routing, a MongoDB database, and the Mongoose ODM.
+<br>
+[Link to deployed application!](https://salty-waters-47896.herokuapp.com/)
+
+<br>
 Image showcasing the application.
 <img src=./public/assets/images/pizzashot.png>
 
